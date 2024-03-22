@@ -4,7 +4,7 @@
 
 # Git e Github
 
-Turma Online on29 | python | Semana 1 | 2023 | Professora Daviny Letícia
+Turma Online on29 | python | Semana 1 | 2024 | Professora Daviny Letícia
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
