@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img style="background: white;width: 100%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+  <img style="background: white;width: 20%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
 # Reprograma | Bootcamp de Análise de Dados
