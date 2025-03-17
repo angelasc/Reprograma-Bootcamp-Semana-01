@@ -2,9 +2,35 @@
   <img style="background: white;width: 100%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Git e Github
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 01 | 2024 | Professora Daviny Letícia
 
-Turma Online on29 | python | Semana 1 | 2024 | Professora Daviny Letícia
+Este repositório contém os exercícios desenvolvidos durante a **Semana 01** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+
+## 📌 Descrição
+Nesta semana, iniciamos nossa jornada na programação com Python. Foram explorados conceitos essenciais para quem está começando, como sintaxe da linguagem, variáveis, tipos de dados, estruturas condicionais e de repetição.
+
+## 🎯 Objetivos da semana
+- Compreender a sintaxe básica do Python.
+- Manipular variáveis e diferentes tipos de dados.
+- Utilizar estruturas condicionais e laços de repetição.
+- Criar pequenas funções para resolver problemas.
+- Praticar lógica de programação com exercícios.
+
+## 📝 Conteúdo do Repositório  
+📂 exercicios/ → Lista de exercícios realizados.
+📂 notebooks/ → Jupyter Notebooks com explicações e exemplos.
+📄 main.py → Arquivo principal com exemplos de código.
+📄 README.md → Este documento.
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem de programação utilizada para interagir com o banco de dados.
+- Git e Github
+
+
+---
+
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
